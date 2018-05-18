@@ -17,6 +17,6 @@ On a brand new VPS copy and paste the following line and press ENTER:
 For Downloading new Wallet on VPS use following command
 ----------------------------------------------------
 
-wget https://raw.githubusercontent.com/Skizzy1992/Crowdcoin-Masternode-Script/master/Install-Wallet.sh && chmod +x Install-Wallet.sh && ./Install-Wallet.sh
+wget https://raw.githubusercontent.com/Skizzy1992/Crowdcoin-Masternode-Script/master/Crowdcoin_Script.sh && chmod +x Crowdcoin_Script.sh && ./Crowdcoin_Script.sh
 
 ----------------------------------------------------
