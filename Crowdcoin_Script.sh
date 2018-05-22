@@ -1,10 +1,3 @@
-#/bin/bash
-# Node Blockchain Inc.
-# Crowdcoin Masternode Download Script
-# Version 0.0.1
-# This script is a derivative work of the code from the following projects:
-# Masternode Guides - https://masternodeguides.com/
-# Crowdcoin - https://crowdcoin.site/
 clear
 cd ~
 echo "**********************************************************************"
