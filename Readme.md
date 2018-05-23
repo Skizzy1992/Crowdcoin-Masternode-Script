@@ -2,8 +2,9 @@
 ---------
 One-Click SMG Masternode Script
 ---------
+Node Blockchain Inc.
 Version: 0.0.1
-Script for installing and updating masternode easily. Install Masternode, generate a key and the conf line for you.
+This script is written for installing and updating masternodes easily. Install Masternode, generate a key and create the config files for you.
 
 ---------------
 Tested Systems: 
